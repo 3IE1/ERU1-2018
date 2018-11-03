@@ -16,6 +16,8 @@ One of the most valuable things we learned from this module was that programming
 
 [Find their code on Github](https://github.com/3IE1/ERU1-2018/tree/master/Submissions/Sarah_Matty)
 
+*** 
+
 ## The Oh What Fun Device
 By: Gillian Vasoff and Pat McArthur
 
