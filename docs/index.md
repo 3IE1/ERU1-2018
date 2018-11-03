@@ -12,15 +12,25 @@ Our biggest challenge was the combining of alarms. Although each alarm (light, s
 ### Reflection on Course:
 One of the most valuable things we learned from this module was that programming is truly a test of one’s mental fortitude; throughout the process of iteration, we ran into many issues that we could not solve alone. Luckily, we had Jay, Arduino examples, and google to help us; yet, it called for a lot of persistence and patience. We now feel fairly accomplished for having successfully completed the project, and gaining experience with code. As our world is becoming more technologically based, having some hands-on hardware and software experience will prove infinitely valuable. This module gave us a good basis to use coding and machinery for a wide scope of further experimentation and play, such as art installations and future projects.  
 
+[![Sarah & Matty's device](http://img.youtube.com/vi/https://youtu.be/XrzZuxOnezI/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/XrzZuxOnezI)
 
-This is a placeholder for future content. 
+[Find their code on Github](https://github.com/3IE1/ERU1-2018/tree/master/Submissions/Sarah_Matty)
 
-[![Test1-pure markdown](http://img.youtube.com/vi/pBSivkXKtVk/0.jpg)](http://www.youtube.com/watch?v=pBSivkXKtVk)
+## The Oh What Fun Device
+By: Gillian Vasoff and Pat McArthur
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pBSivkXKtVk" target="_blank"><img src="http://img.youtube.com/vi/pBSivkXKtVk/0.jpg" alt="Test2-HTML" width="240" height="180" border="10" /></a>
+### Introduction
+On the second day of Electronics for the Rest of Us, we created a device that was able to detect the temperature of a thermistor and convert this into some combination of red and blue light using an RGB LED light. We also had the device play a short melody when the temperature reached 30 degrees Celsius. Finally, we connected two speakers to two different buttons and allowed these speakers to play a single note when their button was pressed. We faced several challenges while creating this device. First, we had to learn how to properly create circuits using the breadboard, which neither of us had experience with. We also had to learn how to read and write simple code, which significantly slowed down the process of this project. Throughout the process, we encountered several bugs that we couldn’t locate the origin of, which highlighted the importance of review and revision of our previous work. 
 
-[link to sample page](https://3ie1.github.io/ERU1-2018/SAMPLE1.html)
+### Pat’s Reflection
+Learning simple problem solving with both software and hardware was a very enriching experience. This course provided a good starting point for future exploration of either coding by itself or electronics. Understanding these things better would make it easier if some code or electronics knowledge was needed for future opportunities we might explore (jobs, courses, etc.). Furthermore, this experience highlighted for us how technology and creativity are intertwined and helped us recognize how this can be used both practically and through making technology fun. 
 
-## Useful resources
-* [easy-markdown-to-github-pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)  
-* [publishing with github pages](https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/)
+### Gillian’s Reflection
+Through this course, I learned the basics of building circuits and writing script in Arduino. I learned how to take an idea of a piece of technology or machine and break it down step by step into a process that can be followed to create the desired technology. In a world that is becoming increasingly automated, this skill is very useful as it allows one to transform their own ideas into technologies without having to wait for someone else to do it first. Also, since I am pursuing a degree in physics, the coding skills I learned today are sure to come in handy for future job opportunities that may involve coding to model scientific data.   
+
+[![Pat & Gillan's device - Part 1](http://img.youtube.com/vi/https://youtu.be/k-AcbdcC7Xk/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/k-AcbdcC7Xk)
+
+[![Pat & Gillan's device - Part 2](http://img.youtube.com/vi/https://youtu.be/f9ImNANifZM/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/f9ImNANifZM)
+
+[Find their code on Github](https://github.com/3IE1/ERU1-2018/tree/master/Submissions/Patrick_Gillian)
+
