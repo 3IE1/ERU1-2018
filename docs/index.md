@@ -1,5 +1,9 @@
 # ERU1, Fall 2018
 
+|   |   |
+|---|---|
+|   |   |
+
 ## Sarah and Matty's Post
 By: Matty Flader and Sarah Williams-Habibi
 
