@@ -12,8 +12,6 @@ Through this course, I learned the basics of building circuits and writing scrip
 
 [See their code on Github](https://github.com/3IE1/ERU1-2018/tree/master/Submissions/Patrick_Gillian)
 
-[View their video (1)](https://www.youtube.com/watch?v=k-AcbdcC7Xk)
-[View their video (2)](https://www.youtube.com/watch?v=f9ImNANifZM)
-
+View their videos [(1)](https://www.youtube.com/watch?v=k-AcbdcC7Xk) [(2)](https://www.youtube.com/watch?v=f9ImNANifZM)
 
 [![Pat & Gillan's device](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Patrick_Gillian/IMG-1180.JPG?raw=true)](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Patrick_Gillian/IMG-1180.JPG?raw=true)
