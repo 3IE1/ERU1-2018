@@ -12,6 +12,7 @@ One of the most valuable things we learned from this module was that programming
 
 [See their code on Github](https://github.com/3IE1/ERU1-2018/tree/master/Submissions/Sarah_Matty)
 
+[View their video](http://www.youtube.com/watch?v=XrzZuxOnezI)
+
 [![Sarah & Matty's device](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Sarah_Matty/IMG_3375.jpeg?raw=true)](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Sarah_Matty/IMG_3375.jpeg?raw=true)
 
-[View their video](http://www.youtube.com/watch?v=XrzZuxOnezI)
