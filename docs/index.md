@@ -12,9 +12,6 @@ Our biggest challenge was the combining of alarms. Although each alarm (light, s
 ### Reflection on Course:
 One of the most valuable things we learned from this module was that programming is truly a test of one’s mental fortitude; throughout the process of iteration, we ran into many issues that we could not solve alone. Luckily, we had Jay, Arduino examples, and google to help us; yet, it called for a lot of persistence and patience. We now feel fairly accomplished for having successfully completed the project, and gaining experience with code. As our world is becoming more technologically based, having some hands-on hardware and software experience will prove infinitely valuable. This module gave us a good basis to use coding and machinery for a wide scope of further experimentation and play, such as art installations and future projects.  
 
-[//]: # ([![Sarah & Matty's device](http://img.youtube.com/vi/XrzZuxOnezI/0.jpg)](http://www.youtube.com/watch?v=XrzZuxOnezI))
-
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XrzZuxOnezI" target="_blank"><img src="http://img.youtube.com/vi/XrzZuxOnezI/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 [Find their code on Github](https://github.com/3IE1/ERU1-2018/tree/master/Submissions/Sarah_Matty)
