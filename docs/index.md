@@ -1,6 +1,6 @@
 # ERU1, Fall 2018
 
-|![Sarah & Matty's](http://img.youtube.com/vi/XrzZuxOnezI/0.jpg)|![Gillian & Pat's](http://img.youtube.com/vi/k-AcbdcC7Xk/0.jpg)|
+|![Sarah & Matty's](http://img.youtube.com/vi/XrzZuxOnezI/0.jpg) [Sarah & Matty's](http://img.youtube.com/vi/XrzZuxOnezI/0.jpg) |![Gillian & Pat's](http://img.youtube.com/vi/k-AcbdcC7Xk/0.jpg)|
 |---|---|
 |   |   |
 
