@@ -19,6 +19,6 @@ The course drew on various fundamentals of electronics that were all used to des
 
 View their videos [1](https://youtu.be/Vm2nYG9tF1w) [2](https://youtu.be/3b-2OMuYfe8) [3](https://youtu.be/eGLkwydsdiY)
 
-[![Felipe, Ruby, and Theresia's device](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/FeliciaRubyTheresia?Image1.png?raw=true)](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/FeliciaRubyTheresia?Image1.png?raw=true)
+[![Felipe, Ruby, and Theresia's device](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Felipe_Ruby_Theresia/Image1.png?raw=true)](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Felipe_Ruby_Theresia/Image1.png?raw=true)
 
-[![Felipe, Ruby, and Theresia's device](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/FeliciaRubyTheresia?Image2.png?raw=true)](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/FeliciaRubyTheresia?Image2.png?raw=true)
+[![Felipe, Ruby, and Theresia's device](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Felipe_Ruby_Theresia/Image2.png?raw=true)](https://github.com/3IE1/ERU1-2018/blob/master/Submissions/Felipe_Ruby_Theresia/Image2.png?raw=true)
