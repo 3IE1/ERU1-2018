@@ -8,5 +8,5 @@ As part of this course, students worked in pairs or groups to develop a multi-fu
 
 |![Sarah & Matty's](http://img.youtube.com/vi/XrzZuxOnezI/0.jpg) [Sarah & Matty's](https://3ie1.github.io/ERU1-2018/SarahMatty.html) |![Gillian & Pat's](http://img.youtube.com/vi/k-AcbdcC7Xk/0.jpg) [Gillian & Pat's](https://3ie1.github.io/ERU1-2018/PatGillian.html)|
 |---|---|
-|![Netri & Garry's](http://img.youtube.com/vi/1iMSmSsbbs8/0.jpg) [Netri & Garry's](https://3ie1.github.io/ERU1-2018/NetriGarry.html) | ![Felipe, Ruby, & Theresia's](http://img.youtube.com/vi/Vm2nYG9tF1w/0.jpg) [Felipe, Ruby, & Theresia's](https://3ie1.github.io/ERU1-2018/FelipeRubyTheresia.html)
+|![Netri & Garry's](http://img.youtube.com/vi/1iMSmSsbbs8/0.jpg) [Netri & Garry's](https://3ie1.github.io/ERU1-2018/NetriGarry.html) | ![Felipe, Ruby, & Theresia's](http://img.youtube.com/vi/Vm2nYG9tF1w/0.jpg) [Felipe, Ruby, & Theresia's](https://3ie1.github.io/ERU1-2018/FelipeRubyTheresia.html)|
 
